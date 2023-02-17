@@ -4,4 +4,4 @@
 
 ![Teste conexão](colocar imagem aqui)
 
-### Acesse o tutorial no <span style="color:blue"></span>[Blog da MakerHero](https://www.makerhero.com/blog/) para mais informações sobre este projeto.
+### Acesse o tutorial no <span style="color:blue"></span>[Blog da MakerHero](https://www.makerhero.com/blog/teste-conexao-via-mqtt-raspberry/) para mais informações sobre este projeto.
